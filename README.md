@@ -8,5 +8,6 @@ Help - Ayuda
 Edite el archivo editor.php y configure su nombre de usuario y contraseña
 Vea los ejemplos a continuación que se encuentran en las líneas 4 y 5 del archivo editor.php
 
-$username = 'administrador';
-$password = 'pepitos21';
+$username='administrador';
+
+$password='pepitos21';
