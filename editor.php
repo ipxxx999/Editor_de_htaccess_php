@@ -165,7 +165,7 @@ function logged_in_msg($username)
 	<div class="container">
 	     <br>
 	     <br>
-		<form id="action-form" action="index.php" method="POST" accept-charset="utf-8">
+		<form id="action-form" action="editor.php" method="POST" accept-charset="utf-8">
 		    
 		     <a class="btn btn-info btn-sm" href="?logout=true" role="button">Cerrar Sesion</a>
 
